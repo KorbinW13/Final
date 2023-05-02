@@ -1,0 +1,10 @@
+Korbin:13
+AAA:10
+AAA:9
+AAA:8
+AAA:7
+AAA:6
+AAA:5
+AAA:4
+AAA:3
+AAA:2
